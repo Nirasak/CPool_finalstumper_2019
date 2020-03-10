@@ -7,5 +7,5 @@ CPool finalstumper Epitech Teck1
 100% moulinette Epitech
 
 ### Coverage
-100% branches
+100% branches  
 100% lines
